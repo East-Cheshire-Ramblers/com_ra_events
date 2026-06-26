@@ -5,13 +5,13 @@
 		<description>East Cheshire Ramblers events component.</description>
 		<element>com_ra_events</element>
 		<type>component</type>
-		<version>1.0.8</version>
+		<version>1.0.9</version>
 		<client>administrator</client>
-		<infourl title="Release notes">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/tag/v1.0.8</infourl>
+		<infourl title="Release notes">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/tag/v1.0.9</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/download/v1.0.8/com_ra_events-1.0.8.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/download/v1.0.9/com_ra_events-1.0.9.zip</downloadurl>
 		</downloads>
-		<sha256>48fefa70d8fe8011ec96623805cbf52a2089db66843cffeba10a1768d28b0a03</sha256>
+		<sha256>4aa0187e5c08f8568790dcbe2676c17ed1dc4f5bd3e574eb5cef8563457b28ca</sha256>
 		<targetplatform name="joomla" version="5.*"/>
 	</update>
 </updates>
