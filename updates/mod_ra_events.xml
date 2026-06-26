@@ -5,12 +5,13 @@
 		<description>East Cheshire Ramblers events sidebar module.</description>
 		<element>mod_ra_events</element>
 		<type>module</type>
-		<version>1.0.5</version>
+		<version>1.0.6</version>
 		<client>site</client>
-		<infourl title="Release notes">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/tag/v1.0.5</infourl>
+		<infourl title="Release notes">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/tag/v1.0.6</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/download/v1.0.5/mod_ra_events-1.0.5.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/download/v1.0.6/mod_ra_events-1.0.6.zip</downloadurl>
 		</downloads>
+		<sha256>498820e671637cd1946d7f0362590624340283fb1bd594066fe61717e7391cd1</sha256>
 		<targetplatform name="joomla" version="5.*"/>
 	</update>
 </updates>

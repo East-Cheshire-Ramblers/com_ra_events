@@ -7,7 +7,7 @@
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <authorEmail>webmaster@bigley.me.uk</authorEmail>
     <authorUrl>https://ramblerseastcheshire.org.uk/</authorUrl>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
     <description>This module enables the display of forthcoming events in a sidebar module</description>
     <namespace>Joomla\Module\Ra_events</namespace>
     <help url="docs.stokeandnewcastleramblers.org.uk" />
