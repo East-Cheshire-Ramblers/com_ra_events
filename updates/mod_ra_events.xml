@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>mod_ra_events</name>
+		<description>East Cheshire Ramblers events sidebar module.</description>
+		<element>mod_ra_events</element>
+		<type>module</type>
+		<version>1.0.5</version>
+		<client>site</client>
+		<infourl title="Release notes">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/tag/v1.0.5</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/East-Cheshire-Ramblers/com_ra_events/releases/download/v1.0.5/mod_ra_events-1.0.5.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="5.*"/>
+	</update>
+</updates>
