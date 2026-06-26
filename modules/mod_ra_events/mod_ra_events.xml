@@ -7,7 +7,7 @@
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <authorEmail>webmaster@bigley.me.uk</authorEmail>
     <authorUrl>https://ramblerseastcheshire.org.uk/</authorUrl>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
     <description>This module enables the display of forthcoming events in a sidebar module</description>
     <namespace>Joomla\Module\Ra_events</namespace>
     <help url="docs.stokeandnewcastleramblers.org.uk" />
@@ -17,7 +17,7 @@
         <folder>tmpl</folder>
     </files>
     <updateservers>
-        <server type="extension" priority="1" name="RA Events Module Updates">https://raw.githubusercontent.com/East-Cheshire-Ramblers/com_ra_events/joomla-auto-update/updates/mod_ra_events.xml</server>
+        <server type="extension" priority="1" name="RA Events Module Updates">https://raw.githubusercontent.com/East-Cheshire-Ramblers/com_ra_events/main/updates/mod_ra_events.xml</server>
     </updateservers>
     <config>
        <fields name="params">
